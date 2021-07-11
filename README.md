@@ -1,3 +1,3 @@
 # QuizApp
 
-My first swift app!
+Complete quiz app about programming.
